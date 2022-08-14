@@ -21,7 +21,7 @@
 -Screenshot
 
 ![Screenshot](./Assets/_C__Users_HP_Downloads_Developer%2520loading%2520(2)_Developer%2520loading_index.html.png?raw=true) 
-## 📌 **Live Site URL:** <a href="https://kartik-jodhani-street-site-landing.netlify.app/"  target="_blank">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://kartikjodhani-developer-landing-page.netlify.app/"  target="_blank">**Visit Now** 🚀</a>
 
 ## 📌 What I Learnt
 
